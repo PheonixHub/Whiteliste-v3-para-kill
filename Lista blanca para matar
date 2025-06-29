@@ -27,7 +27,7 @@ if success then
         })
         -- Aquí cargas tu script real:
         
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Matar-muerto/refs/heads/main/Kill",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PheonixHub/Matar-estando-muerto-v3/refs/heads/main/V3",true))()
     else
         print("❌ No estás en la whitelist.")
         -- Mensaje al jugador
